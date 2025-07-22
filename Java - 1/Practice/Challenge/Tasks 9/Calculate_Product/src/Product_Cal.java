@@ -10,7 +10,7 @@ public class Product_Cal {
 
         System.out.print("Enter one value : ");
         float value1 = input.nextFloat();
-
+        
         System.out.print("Enter second value : ");
         float value2 = input.nextFloat();
 
